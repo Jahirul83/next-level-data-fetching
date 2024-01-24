@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Exciting Adventure",
+          "description": "Embark on a thrilling journey through uncharted lands. Explore mysterious caves, encounter magical creatures, and overcome challenges that test your courage. Are you ready for the adventure of a lifetime?",
+          "likes_count": 1200
+        },
+        {
+          "id": 2,
+          "title": "Gourmet Delights",
+          "description": "Indulge in the exquisite world of culinary delights. Savor the rich flavors and aromas of gourmet cuisine crafted by master chefs. Each dish tells a story, and every bite is a journey into gastronomic bliss.",
+          "likes_count": 95
+        },
+        {
+          "id": 3,
+          "title": "Innovative Tech Trends",
+          "description": "Stay ahead of the curve with the latest in technology. Discover cutting-edge innovations, from artificial intelligence to futuristic gadgets. Dive into the world of tomorrow and witness the evolution of tech.",
+          "likes_count": 200
+        },
+        {
+          "id": 4,
+          "title": "Mindful Living",
+          "description": "Embrace a mindful lifestyle that nurtures your body, mind, and soul. Learn ancient practices that promote inner peace and well-being. Join the community of mindful individuals on the path to a balanced and fulfilling life.",
+          "likes_count": 150
+        },
+        {
+          "id": 5,
+          "title": "Captivating Photography",
+          "description": "Immerse yourself in the beauty of visual storytelling. Witness stunning landscapes, candid moments, and breathtaking scenes captured through the lens of talented photographers. Let each image evoke emotions and inspire.",
+          "likes_count": 180
+        },
+        {
+          "id": 6,
+          "title": "Fitness Fusion",
+          "description": "Revitalize your fitness journey with a fusion of diverse workouts. From high-intensity intervals to serene yoga sessions, find the perfect balance for your body. Elevate your health and well-being with a fitness fusion like never before.",
+          "likes_count": 130
+        }
+      ]
+      
+}
